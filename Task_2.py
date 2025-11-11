@@ -19,5 +19,5 @@ while True:
         operation(float(number))
         break
     else:
-        print("Invalid Input!. Input needs to be a positive numeric values.")
+        print("Invalid Input!. Input needs to be a positive numeric value.")
         print("Please Try-again!")
